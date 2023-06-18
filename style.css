@@ -1,0 +1,30 @@
+/* селектор { свойство:значение} */
+/* тег */
+h1{
+    background: blue;
+}
+/* класс */
+
+.p-1{
+    background: red;
+    font-size: 32pt;
+    color: green
+}
+
+.p-2{
+    /*граница */
+    border: 10px solid purple;
+    border-radius: 5px;
+    font-size: 24pt;
+    /* внешний отступ */
+    margin-bottom: 60px;
+    /* внутренний отступ */
+    padding-bottom: 60px ;
+    padding-left: 20px ;
+}
+
+.p-3{
+    font-weight: bold;
+    font-size: 22pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
